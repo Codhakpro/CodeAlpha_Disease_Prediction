@@ -2,6 +2,12 @@
 
 A machine learning project that predicts the presence of heart disease using patient medical data. This project was completed as part of the CodeAlpha Machine Learning Internship.
 
+## 🚀 Live Demo
+
+**[Launch the Disease Prediction AI](https://codhak-disease-prediction.streamlit.app/)**
+
+Try the deployed Streamlit application to enter patient information, select a trained model, generate a prediction, and view the model's probabilities.
+
 ## Overview
 
 The project uses the Cleveland Heart Disease dataset from the UCI Machine Learning Repository.
@@ -77,6 +83,15 @@ The application allows users to:
 - Compare the different model approaches
 
 > **Important:** This application is intended for educational and demonstration purposes only. It is not a medical diagnostic tool.
+
+## 🌐 Deployment
+
+The Streamlit application is deployed on **Streamlit Community Cloud**.
+
+**Live application:**  
+[Open the deployed application](https://codhak-disease-prediction.streamlit.app/)
+
+The deployed app uses the Streamlit application and trained model files from this project.
 
 ## Technologies
 
