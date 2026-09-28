@@ -126,4 +126,31 @@ CodeAlpha_Disease_Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+# How to Run
+1. Install the required packages
+```
+pip install -r requirements.txt
+```
+2. Open the Jupyter Notebook
+```
+jupyter notebook
+```
+Open:
+```
+disease_prediction.ipynb
+```
+and run the cells in order.
+
+3. Run the Streamlit Application
+
+From the project directory:
+```
+streamlit run app.py
+```
+The application will open in a web browser.
+
+## Disclaimer
+
+This project is an educational machine learning demonstration and should not be used for medical diagnosis or clinical decision-making.
 
